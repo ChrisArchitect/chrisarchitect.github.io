@@ -3,7 +3,7 @@ title: ChrisArchitect
 author: ChrisArchitect
 url: https://chrisarchitect.dev # root address of the site
 # baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: > Some of my answers you will understand, and some of them you will not.
+description: Some of my answers you will understand, and some of them you will not.
 
 # permalink: /:slug.html
 
