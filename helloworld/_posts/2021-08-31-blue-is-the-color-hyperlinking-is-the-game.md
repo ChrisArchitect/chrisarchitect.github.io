@@ -1,83 +1,22 @@
 ---
 layout: post
+title: "Blue Is the Color, Hyperlinking Is the Game"
 ---
 
-Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
+### A follow-up on a recent post from the Mozilla blog, [Why are hyperlinks blue?](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
 
-# Sample heading 1
-## Sample heading 2
-### Sample heading 3
-#### Sample heading 4
-##### Sample heading 5
-###### Sample heading 6
+While intrigued like many about the age-old design origins of a core part of the web, links, I was left wanting. It's not that it wasn't a good idea for a 'deep dive' ([although not like it hasn't been covered](https://css-tricks.com/chapter-2-browsers/)): a chance to review the various intricacies of early web, the legends of Tim Berners-Lee, and the inevitable version histories of things like Mosaic that come with this kind of technical angle. However, the post never really answered it's own question - but rather dwelled on release history beyond the original period and a lot of speculation that it might have been random, based on capabilities or legibility, or presenting "I think it might have been" as a conclusion. Like I said, left a reader like me wanting more of answer.
 
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
+#### Here's a few helpful things I dug up with the help of searches and some discussions that came out of the post on HN etc.
 
-## Lists
+### From the horse's mouth
 
-Unordered:
+The horse being TBL himself, who once pondered the answer to this very question and it's archived in a [W3.org FAQ on him](https://www.w3.org/People/Berners-Lee/FAQ.html#etc):
 
-- Fusce non velit cursus ligula mattis convallis vel at metus[^2].
-- Sed pharetra tellus massa, non elementum eros vulputate non.
-- Suspendisse potenti.
+>  There is no reason why one should use color, or blue, to signify links: it is just a default. ... Blue came in as browsers went color - I don't remember which was the first to use blue. ... My guess is that blue is the darkest color and so threatens the legibility least.
 
-Ordered:
+### Look to the Hypertext
 
-1. Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc.
-2. Sed massa quam, auctor in eros quis, porttitor tincidunt orci.
-3. Nulla convallis id sapien ornare viverra.
-4. Nam a est eget ligula pellentesque posuere.
+When talking about early and pre-web history, one should never discount the importance of Hypertext. It's significant influence over what would materialize as Berners-Lee's vision for the World Wide Web goes beyond just keeping use of the word *hyper* popular at the time but being part of foundational work for years and years before Tim's 1989 proposal.
 
-## Blockquote
-
-The following is a blockquote:
-
-> Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus.
-
-## Thematic breaks (<hr>)
-
-Mauris viverra dictum ultricies[^3]. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. **You can put some text inside the horizontal rule like so.**
-
----
-{: data-content="hr with text"}
-
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. **Or you can just have an clean horizontal rule.**
-
----
-
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. Or you can just have an clean horizontal rule.
-
-## Code
-
-Now some code:
-
-```
-const ultimateTruth = 'this theme is the best!';
-console.log(ultimateTruth);
-```
-
-And here is some `inline code`!
-
-## Tables
-
-Now a table:
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-## Images
-
-![theme logo](https://raw.githubusercontent.com/riggraz/no-style-please/master/logo.png){:.ioda}
-
-Logo of *no style, please!* theme[^4]
-
----
-{: data-content="footnotes"}
-
-[^1]: this is a footnote. It should highlight if you click on the corresponding superscript number.
-[^2]: hey there, i'm using no style please!
-[^3]: this is another footnote.
-[^4]: this is a very very long footnote to test if a very very long footnote brings some problems or not. I strongly hope that there are no problems but you know sometimes problems arise from nowhere.
+In fact the Mozilla blog post touches on a specific Hypertext-related project called HyperTIES in its timeline around 1983, but doesn't really delve into what was going on there with Hypertext.
