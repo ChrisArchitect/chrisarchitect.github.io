@@ -27,6 +27,7 @@ Shneiderman tells how his students did studies on various UI elements leading up
 
 > My students conducted more than a dozen experiments (unpublished) on different ways of highlighting and selection using current screens, e.g. green screens only permitted, bold, underscore, blinking, and I think italic(?). When we had a color screen we tried different color highlighted links. While red made the links easier to spot, user comprehension and recollection of the content declined. **We chose the light blue, which Tim adopted.**[^2]
 
+---
 {: data-content="Set a Course for Blue"}
 
 So there you have a significant answer, folks. More than why developers of browsers may have maintained it over time or even in those early 90s days, the source of the initial inspiration is the place to land on. The work of the HyperTIES team developing their Hypertext linking concepts through UI design research (which formulated conclusions about legibility) coupled with the distribution reach their system had thanks to the 1988 ACM makes the Hypertext era a major key to this links question. It being in the mix while Tim Berners-Lee took things to the next level, and also general color screen technological advancements that happened over the next few years pretty much set the hyperlinking game on its blue course into the future.
