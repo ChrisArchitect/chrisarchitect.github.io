@@ -23,7 +23,7 @@ While intrigued like many about the age-old design origins of a core part of the
 
 ## From the horse's mouth
 
-The horse being TBL himself, who once pondered the answer to this very question. It's archived in a W3.org FAQ on him:
+The horse being TBL himself, who once pondered the answer to this very question. It's archived in a W3C FAQ on him:
 
 >  There is no reason why one should use color, or blue, to signify links: it is just a default. … Blue came in as browsers went color - I don't remember which was the first to use blue. … **My guess is that blue is the darkest color and so threatens the legibility least.**[^1]
 
