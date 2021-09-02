@@ -2,6 +2,18 @@
 layout: post
 title: "Blue Is the Color, Hyperlinking Is the Game"
 ---
+<!-- 
+Left wanting after that recent blog that asked Why are hyperlinks blue? Couple things:
+From the horse's mouth–
+Tim Berners-Lee himself in a Press FAQ: "…it is just a default… My guess is that blue is the darkest color and so threatens the legibility least."
+
+Look to the Hypertext–
+Ben Shneiderman who worked on the HyperTIES interactive system did studies on visual interface patterns leading up to 1987 including highlighted links, choosing blue which TBL then was influenced by later.
+
+Blue Is the Color, Hyperlinking Is the Game
+
+#ui #webdesign #history
+  -->
 
 ### A follow-up on a recent post from the Mozilla blog, [Why are hyperlinks blue?](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
 
