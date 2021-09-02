@@ -19,7 +19,7 @@ Blue Is the Color, Hyperlinking Is the Game
 
 While intrigued like many about the age-old design origins of a core part of the web, links, I was left wanting. It's not that it wasn't a good idea for a 'deep dive' ([although not like it hasn't been covered](https://css-tricks.com/chapter-2-browsers/)): a chance to review the various intricacies of early web, the legend of Tim Berners-Lee, and the inevitable version histories of browsers like Mosaic and its successors that come with this kind of technical angle. However, the post never really answered it's own question but rather dwelled on release history beyond the original period and a lot of speculation that it might have been random, based on capabilities or legibility, or presenting personal theories as a conclusion. Like I said, left a reader like me wanting more of answer.
 
-#### Here's two helpful things I dug up with the help of searches and some further reading:
+#### Here's two helpful things I dug up with some searches and further reading:
 
 ## From the horse's mouth
 
